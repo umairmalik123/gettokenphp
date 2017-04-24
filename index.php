@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Get Token Androi Full Quyền</title>
+  <title>Get Token Iphone Full Version</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -11,10 +11,10 @@
 <body>
  
 <div class="container">
-  <h2>Get Token Androi Full Quyền</h2>
+  <h2>Get Token Iphone Full Version</h2>
   <div class="panel-group">
 <div class="panel panel-primary">
-      <div class="panel-heading">Không Bị Checkpoint 100%</div>
+      <div class="panel-heading">NOo Checkpoint 100%</div>
       <div class="panel-body">      
 <div class="form-group">
 
