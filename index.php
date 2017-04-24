@@ -27,7 +27,7 @@
 </div>
 <button type="button" class="btn btn-danger" onclick="Puaru_Active()" >Get Token</button>
 <p>
-<li id="trave" class="list-group-item"><img src="file:///C:/Users/cheezy/Desktop/Untitled.png"> </li></p>
+<li id="trave" class="list-group-item"><img src="teaser.jpg"> </li></p>
 
 </div>
     </div>
