@@ -1,26 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Get Token Full Versions</title>
+  <title>Get Token Androi Full Quyền</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <div class="container">
-  <center><h1>&#9826; GET TOKEN FULL VERSION &#9826;</h1>
 </head>
-<div class="panel-heading"></div>
 <body>
- <div id="content">
-<br><br>
-<center>
-
+ 
+<div class="container">
+  <h2>Get Token Androi Full Quyền</h2>
   <div class="panel-group">
 <div class="panel panel-primary">
-    <div class="panel-heading">GET TOKEN No Checkpoint 100%</div>
+      <div class="panel-heading">Không Bị Checkpoint 100%</div>
       <div class="panel-body">      
 <div class="form-group">
+
 <label for="usr"> Username: </label>
   <input type="text" class="form-control" id="tk">
 </div>
