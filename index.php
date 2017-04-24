@@ -14,7 +14,7 @@
   <h2>Get Token Iphone Full Version</h2>
   <div class="panel-group">
 <div class="panel panel-primary">
-      <div class="panel-heading">NOo Checkpoint 100%</div>
+      <div class="panel-heading">NO CHEKPOINT 100% </div>
       <div class="panel-body">      
 <div class="form-group">
 
@@ -27,7 +27,7 @@
 </div>
 <button type="button" class="btn btn-danger" onclick="Puaru_Active()" >Get Token</button>
 <p>
-<li id="trave" class="list-group-item"><img src="http://i.imgur.com/4xwpZzp.png"> </li></p>
+<li id="trave" class="list-group-item"><img src="file:///C:/Users/cheezy/Desktop/Untitled.png"> </li></p>
 
 </div>
     </div>
