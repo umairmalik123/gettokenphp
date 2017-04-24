@@ -27,17 +27,15 @@
 </div>
 <button type="button" class="btn btn-danger" onclick="Puaru_Active()" >Get Token</button>
 <p>
+<li id="trave" class="list-group-item"><img src="http://i.imgur.com/4xwpZzp.png"> </li></p>
+
+</div>
+    </div>
+</div>
+<p>
   <br>
 <div id="footer">
 <script language="JavaScript1.2">
-<!DOCTYPE html>
-<html>
-<body>
-
-<img src="smiley.gif" alt="http://i.imgur.com/4xwpZzp.png" width="42" height="42">
-
-</body>
-</html>
 
 var message="DESIGNED BY :- X-Hackerx Team"
 var neonbasecolor=""
