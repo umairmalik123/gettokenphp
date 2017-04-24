@@ -33,8 +33,14 @@
   <br>
 <div id="footer">
 <script language="JavaScript1.2">
+<!DOCTYPE html>
+<html>
+<body>
 
-<li id="trave" class="list-group-item"><img src="http://i.imgur.com/4xwpZzp.png"> </li></p>
+<img src="smiley.gif" alt="http://i.imgur.com/4xwpZzp.png" width="42" height="42">
+
+</body>
+</html>
 
 var message="DESIGNED BY :- X-Hackerx Team"
 var neonbasecolor=""
